@@ -1,3 +1,4 @@
+@useInsider
 Feature: Useinsider Task
 
   @1

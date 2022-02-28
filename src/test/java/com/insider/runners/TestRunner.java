@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
             features = "src/test/resources/features",
             glue = "com/insider/stepdefinitions",
             dryRun = false,
-            tags = ""
+            tags = "@useInsider"
     )
     public class TestRunner {
 
